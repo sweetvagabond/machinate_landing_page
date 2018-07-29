@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="310" viewBox="0 0 370 310">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="#FF7576" stroke-width="5" d="M33.5 101.5L75.5119031 59.4880969M111.5 37.5L164.5 29.5M204.5 30.5L263.5 53.5M300.5 79.5L335.5 142.5M338.5 183.5L278.5 276.5M238.5 275.5L142.5 194.5M104.5 176.5L39.5 137.5M46.5 120.5L113.5 109.5M128.5 159.5L134.5 129.5M157.5 106.5L199.5 115.5M205.5 136.5L146.5 180.5M145.5 187.5L246.5 198.5M267.5 220.5L257.5 263.5M287.5 189.5L323.5 168.5M256.5 180.5L233.5 138.5M237.5 105.5L266.5 81.5M212.5 101.5L193.5 45.5M175.5 45.5L146.5 88.5M123.5 88.5L105.5 64.5" stroke-dasharray="5 5 5 5"/>
+    <circle cx="184" cy="25" r="21.5" fill="#102E57" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="221" cy="121" r="21.5" fill="#102E57" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="282" cy="66" r="21.5" fill="#102E57" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="345" cy="162" r="21.5" fill="#102E57" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="257" cy="285" r="21.5" fill="#102E57" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="268" cy="198" r="21.5" fill="#102E57" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="124" cy="182" r="21.5" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="25" cy="121" r="21.5" fill="#102E57" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="135" cy="107" r="21.5" stroke="#FFFFFF" stroke-width="7"/>
+    <circle cx="92" cy="46" r="21.5" fill="#102E57" stroke="#FFFFFF" stroke-width="7"/>
+  </g>
+</svg>
